@@ -1,5 +1,7 @@
 # stringToNumber and numberToString
 
+![CI pipeline](https://github.com/conradthegray/strings-and-numbers/actions/workflows/ci.yml/badge.svg)
+
 It started with [a meme](https://imgur.com/a/8OErRdv), how did it end up like
 this?
 
