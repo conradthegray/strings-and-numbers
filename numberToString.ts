@@ -87,5 +87,3 @@ export function numberToString(num: number): string {
 
   return result.join(" ");
 }
-
-numberToString(25345);
