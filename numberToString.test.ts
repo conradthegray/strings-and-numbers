@@ -28,6 +28,7 @@ const testCases = [
       "two billion one hundred forty seven million four hundred eighty three thousand six hundred forty seven",
   },
   { number: 900000000000, result: "nine hundred billion" },
+  { number: 1000000000000, result: "one trillion" },
 ];
 
 Deno.test("numberToString", () => {

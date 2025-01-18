@@ -34,6 +34,7 @@ export const WORD_TO_MULTIPLIER: Record<string, number> = {
   thousand: 1000,
   million: 1000000,
   billion: 1000000000,
+  trillion: 1000000000000,
 };
 
 export const NUMBER_TO_WORD: Record<number, string> = {
@@ -72,4 +73,5 @@ export const MULTIPLIER_TO_WORD: Record<number, string> = {
   1000: "thousand",
   1000000: "million",
   1000000000: "billion",
+  1000000000000: "trillion",
 };
